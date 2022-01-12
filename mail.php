@@ -2,7 +2,7 @@
  
 	if(isset($_POST['name'], $_POST['email'], $_POST['subject'], $_POST['message'])){
 		
-		$to = "support@example.com"; //this is your Email address
+		$to = "photovegh@gmail.com"; //this is your Email address
 		$from = $_POST['name'];
 		$username = $_POST['name'];
 		$email = $_POST['email'];
